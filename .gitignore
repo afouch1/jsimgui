@@ -1,3 +1,4 @@
 .*
 Gui/bin
 Gui/obj
+*.metallib
